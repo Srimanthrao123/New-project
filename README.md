@@ -1,1 +1,1 @@
-# New-project
+Simple arithmetic operations
