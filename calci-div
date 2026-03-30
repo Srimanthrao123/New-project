@@ -1,0 +1,16 @@
+#include<stdio.h>
+ void div(float num1,num2);
+ result = num1/num2;
+ printf("result = %f",result);
+int main()
+{
+    float  num1,num2;
+    printf("Enter the two numbers:");
+    scanf("%f %f",&num1,&num2);
+    div(num1,num2);
+    add(num1,num2);
+    sub(num1,num2);
+    mul(num1,num2);
+}
+
+
