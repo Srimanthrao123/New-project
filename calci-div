@@ -1,7 +1,9 @@
 #include<stdio.h>
- void div(float num1,num2);
- result = num1/num2;
- printf("result = %f",result);
+ void div(float num1,float num2)
+ {
+ float result = num1/num2;
+ printf("result = %0.2f",result);
+ }
 int main()
 {
     float  num1,num2;
